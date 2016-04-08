@@ -1,2 +1,0 @@
-sayhello
-sayhello2
